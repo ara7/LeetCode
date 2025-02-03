@@ -15,6 +15,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ara7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ara7/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ara7/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/ara7/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -36,4 +37,9 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ara7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ara7/LeetCode/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ara7/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
