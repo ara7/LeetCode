@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ara7/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ara7/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,5 +42,6 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ara7/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/ara7/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
