@@ -28,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ara7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ara7/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ara7/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ara7/LeetCode/tree/master/0242-valid-anagram) |
@@ -47,7 +48,12 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ara7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/ara7/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ara7/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ara7/LeetCode/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ara7/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
