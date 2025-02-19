@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/ara7/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ara7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ara7/LeetCode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/ara7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ara7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ara7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ara7/LeetCode/tree/master/0169-majority-element) |
@@ -36,6 +37,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ara7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ara7/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -44,6 +46,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ara7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ara7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ara7/LeetCode/tree/master/0392-is-subsequence) |
 ## String
