@@ -1,20 +1,14 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        prof = 0
-        first_ele = prices[0]
-        for price in prices[1:]:
-            #update first_ele if current_price is lower than current buying price
-            if first_ele > price:
-                first_ele = price
-
-            elif price - first_ele > prof:
-                prof = price - first_ele 
-        return prof
-        '''prof = []
-        for i in range(len(prices)):
-            for j in range(1, len(prices)):
-                if prices[i] < prices[j]:
-                    prof.append(prices[j] - prices[i])
-        return max(prof)''' #This solution fails some cases and uses two loops
-         
+        #let' do using pointers
+        l,r = 0,1 #left is buying #right is selling
+        maxP = 0
+        while r < len(prices):
+            if prices[l] < prices[r]:
+                profit = prices[r] - prices[l]
+                maxP = max(maxP, profit)
+            else:
+                l = r
+            r += 1
+        return maxP
         
