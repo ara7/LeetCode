@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/ara7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ara7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ara7/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ara7/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ara7/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ara7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ara7/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/ara7/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/ara7/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -66,4 +68,5 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ara7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/ara7/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
