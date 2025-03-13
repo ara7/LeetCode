@@ -58,6 +58,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ara7/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ara7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/ara7/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ara7/LeetCode/tree/master/0205-isomorphic-strings) |
